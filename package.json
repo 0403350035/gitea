@@ -24,7 +24,7 @@
     "easymde": "2.18.0",
     "esbuild-loader": "4.0.2",
     "escape-goat": "4.0.0",
-    "fast-glob": "3.3.2",
+    "fast-glob": "3.3.3",
     "jquery": "3.7.1",
     "katex": "0.16.9",
     "license-checker-webpack-plugin": "0.2.1",
